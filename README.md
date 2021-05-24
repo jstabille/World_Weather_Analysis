@@ -5,29 +5,29 @@ Find the best cities to vacation using weather using weather map API and mapbox.
 
 This analysis looks at different weather patterns around the global and offers insights to travelers who want to book a trip. There are three folders here that offer different levels of analysis: weather database, vacation search, and vacation itinerary.
 
-### Weather Database
+### 1.Weather Database
 
 This folder uses Open Weather Map API to pull weather information on over 720 different cities around the world. That information consists of:
 
-1. Maximum Temperature
-2. Cloudiness
-3. Wind Speed
-4. Humidity
-5. Current Weather Description
+a. Maximum Temperature
+b. Cloudiness
+c. Wind Speed
+d. Humidity
+e. Current Weather Description
 
 These different categories of information make it easy for travelers to choose exactly what they are looking for in a travel destination.
 
 ![Vacation Map Dataframe](weather_database/city_data_df.png)
 
-### Vacation Search
+### 2.Vacation Search
 
 This folder takes the information gained in the weather database and uses Google Maps API to plot different travel destinations with a hotel at each location. For example, the image below shows the locations of all the places in the database that have an daily maximum temperature between 75 and 88 degrees farinheit.
 
 ![vacation_search_map](vacation_search/weatherpy_vacation_map.png)
 
-### Vacation Itinerary
+### 4.Vacation Itinerary
 
-This folder takes the search information from the search folder and uses Google Maps directions API to create a vacation itinerary. For example, the image below shows a 4 stop itinerary in Northern California that features Ukiah, Carson City, Laguna, and Half Moon Bay.
+This folder takes the search information from the search folder and uses Google Maps directions API to create a vacation itinerary. For example, the image below shows a 4 stop itinerary in the southwest of Brazil that features Marica, Sao Joao Da Barra, Vila Velha, and Caravelas.
 
 ![vacation_itinerary_map](vacation_itinerary/weatherpy_travel_map.png)
 
