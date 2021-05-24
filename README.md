@@ -8,11 +8,13 @@ This analysis looks at different weather patterns around the global and offers i
 ### 1.Weather Database
 
 This folder uses Open Weather Map API to pull weather information on over 720 different cities around the world. That information consists of:
-*Maximum Temperature
-*Cloudiness
-*Wind Speed
-*Humidity
-*Current Weather Description
+
+* Latitude and longitude
+* Maximum temperature
+* Percent humidity
+* Percent cloudiness
+* Wind speed
+* Weather description (for example, clouds, fog, light rain, clear sky)
 
 These different categories of information make it easy for travelers to choose exactly what they are looking for in a travel destination.
 
