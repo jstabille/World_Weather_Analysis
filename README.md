@@ -35,7 +35,3 @@ This folder takes the search information from the search folder and uses Google 
 Also, as with the vacation search folder, there is a hotel at each location.
 
 ![vacation_itinerary_markers](vacation_itinerary/weatherpy_travel_map_markers.png)
-
-### Bonus: Weather Data
-
-As an addon to these three folders, there is a weather data folder that has valuable linear regression models looking at the correlation between different weather infromation and latitude. These take into consideration the different weather information that are used in the weather database folder. Please view this if you are interested.
