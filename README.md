@@ -1,4 +1,5 @@
 # World Weather Analysis
+Find the best cities to vacation using weather using weather map API and mapbox.
 
 ## Overview
 
@@ -15,6 +16,8 @@ This folder uses Open Weather Map API to pull weather information on over 720 di
 5. Current Weather Description
 
 These different categories of information make it easy for travelers to choose exactly what they are looking for in a travel destination.
+
+![Vacation Map Dataframe](weather_database/city_data_df.png)
 
 ### Vacation Search
 
