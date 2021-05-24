@@ -30,7 +30,7 @@ This folder takes the search information from the search folder and uses Google 
 
 Also, as with the vacation search folder, there is a hotel at each location.
 
-![vacation_itinerary_markers](master/vacation_itinerary/weatherpy_travel_map_markers.png)
+![vacation_itinerary_markers](vacation_itinerary/weatherpy_travel_map_markers.png)
 
 ### Bonus: Weather Data
 
