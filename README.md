@@ -9,11 +9,11 @@ This analysis looks at different weather patterns around the global and offers i
 
 This folder uses Open Weather Map API to pull weather information on over 720 different cities around the world. That information consists of:
 
-a. Maximum Temperature
-b. Cloudiness
-c. Wind Speed
-d. Humidity
-e. Current Weather Description
+*a. Maximum Temperature
+*b. Cloudiness
+*c. Wind Speed
+*d. Humidity
+*e. Current Weather Description
 
 These different categories of information make it easy for travelers to choose exactly what they are looking for in a travel destination.
 
@@ -25,7 +25,7 @@ This folder takes the information gained in the weather database and uses Google
 
 ![vacation_search_map](vacation_search/weatherpy_vacation_map.png)
 
-### 4.Vacation Itinerary
+### 3.Vacation Itinerary
 
 This folder takes the search information from the search folder and uses Google Maps directions API to create a vacation itinerary. For example, the image below shows a 4 stop itinerary in the southwest of Brazil that features Marica, Sao Joao Da Barra, Vila Velha, and Caravelas.
 
