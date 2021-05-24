@@ -1,5 +1,5 @@
 # World Weather Analysis
-Find the best cities to vacation using weather using weather map API and mapbox.
+Find the best cities to vacation using weather map Google Maps and Places API.
 
 ## Overview
 
@@ -28,7 +28,7 @@ This folder takes the information gained in the weather database and uses Google
 
 ### 3.Vacation Itinerary
 
-This folder takes the search information from the search folder and uses Google Maps directions API to create a vacation itinerary. For example, the image below shows a 4 stop itinerary in the southwest of Brazil that features Marica, Sao Joao Da Barra, Vila Velha, and Caravelas.
+This folder takes the search information from the search folder and uses Google Maps directions API to create a vacation itinerary. For example, the image below shows a 4 stop driving itinerary in the southwest of Brazil that features Marica, Sao Joao Da Barra, Vila Velha, and Caravelas.
 
 ![vacation_itinerary_map](vacation_itinerary/weatherpy_travel_map.png)
 
